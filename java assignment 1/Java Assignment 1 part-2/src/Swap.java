@@ -8,5 +8,7 @@ class Swap {
         b = a ^ b;
         a = a ^ b;
         System.out.println(a + " " + b);
+        sc.close();
     }
 }
+
