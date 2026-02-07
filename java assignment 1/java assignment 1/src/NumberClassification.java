@@ -18,6 +18,7 @@ class NumberClassification{
             System.out.println("It is divisible by both 5 and 7");
         }else
             System.out.println("It is not divisible by both 5 and 7 ");
-
+        sc.close();
     }
+
 }
