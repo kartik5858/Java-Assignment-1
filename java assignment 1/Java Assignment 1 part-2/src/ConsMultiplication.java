@@ -5,6 +5,8 @@ class ConsMultiplication {
         int x = sc.nextInt();
         int result = (x << 3) - x;
         System.out.println(result);
+        sc.close();
     }
 }
+
 
