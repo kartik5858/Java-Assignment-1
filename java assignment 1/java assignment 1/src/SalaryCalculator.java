@@ -16,6 +16,8 @@
             double pf = basic * 0.12;
             double netSalary = basic + hra + da - pf;
             System.out.println("Net Salary = "+netSalary);
+            sc.close();
         }
     }
+
 
