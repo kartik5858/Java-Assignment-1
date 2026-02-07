@@ -16,5 +16,7 @@ class Divide {
             q++;
         }
         System.out.println(sign * q);
+        sc.close();
     }
 }
+
