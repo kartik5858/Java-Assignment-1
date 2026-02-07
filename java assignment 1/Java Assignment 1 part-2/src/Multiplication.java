@@ -20,6 +20,8 @@ class Multiplication {
         if (neg)
             result = -result;
         System.out.println(result);
+        sc.close();
     }
 }
+
 
