@@ -18,5 +18,7 @@ class NumberAnalysis {
         System.out.println("Reverse: " + rev);
         System.out.println("Sum of digits: " + sum);
         System.out.println("Count: " + count);
+        sc.close();
     }
 }
+
