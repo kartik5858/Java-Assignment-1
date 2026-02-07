@@ -12,5 +12,7 @@ class Addition {
             b = carry << 1;
         }
         System.out.println("Sum = " + a);
+        sc.close();
     }
 }
+
