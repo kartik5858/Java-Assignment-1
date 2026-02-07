@@ -16,5 +16,7 @@ class AtmWithdrawal {
         else {
             System.out.println("Withdrawal failed");
         }
+        sc.close();
     }
 }
+
