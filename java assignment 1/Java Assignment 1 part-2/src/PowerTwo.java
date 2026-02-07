@@ -6,5 +6,7 @@ class PowerTwo {
 
         boolean res = n > 0 && (n & (n - 1)) == 0;
         System.out.println(res);
+        sc.close();
     }
 }
+
