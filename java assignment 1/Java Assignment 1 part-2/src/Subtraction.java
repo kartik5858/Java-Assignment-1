@@ -11,6 +11,8 @@ class Subtraction {
             b = carry << 1;
         }
         System.out.println("Result = " + a);
+        sc.close();
     }
 }
+
 
