@@ -9,5 +9,7 @@ class MaximumNumber {
         int sign = (diff >> 31) & 1;
         int max = a - sign*diff;
         System.out.println(max);
+        sc.close();
     }
 }
+
