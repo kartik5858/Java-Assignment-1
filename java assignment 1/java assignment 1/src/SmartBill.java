@@ -14,5 +14,6 @@ class SmartBill{
         }
         total = total + (total*0.18);
         System.out.println("Your total would be : "+total);
+        sc.close();
     }
 }
