@@ -17,5 +17,7 @@ class ElectricityBillGenerator {
         }
         bill = bill + 150;
         System.out.println("Total bill = " +bill);
+        sc.close();
     }
 }
+
