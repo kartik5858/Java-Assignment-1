@@ -22,5 +22,7 @@ class PrimeNumberRange {
             if (prime)
                 System.out.print(i+" ");
         }
+        sc.close();
     }
 }
+
